@@ -10,7 +10,5 @@ num +=5;
 //EXPONENTES:
 // num **=3 lo elevas al cubo
 
-
 document.getElementById("contenido").innerHTML=num; //se usa para mostrar un valor
 // en una etiqueta html mediante el id
-
