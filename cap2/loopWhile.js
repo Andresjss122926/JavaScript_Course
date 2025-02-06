@@ -21,6 +21,6 @@ do{
 }while (resultado>6);
 
 //document.getElementById("contenido").innerHTML=i;
-
+//break rompe el bucle
 
 
